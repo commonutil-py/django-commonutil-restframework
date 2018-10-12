@@ -4,7 +4,7 @@
 from setuptools import setup
 
 setup(
-		name="django-commonutil-model",
+		name="django-commonutil-restframework",
 		version="0.1.0",  # REV-CONSTANT:rev 5d022db7d38f580a850cd995e26a6c2f
 		description="Common utilities for Django REST Framework",
 		py_modules=[
