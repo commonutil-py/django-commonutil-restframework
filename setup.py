@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
 		name="django-commonutil-restframework",
-		version="0.1.1",  # REV-CONSTANT:rev 5d022db7d38f580a850cd995e26a6c2f
+		version="0.3.1",  # REV-CONSTANT:rev 5d022db7d38f580a850cd995e26a6c2f
 		description="Common utilities for Django REST Framework",
 		py_modules=[
 				'django_commonutil_restframework',
@@ -14,8 +14,8 @@ setup(
 				'Development Status :: 5 - Production/Stable',
 				'Intended Audience :: Developers',
 				'License :: OSI Approved :: MIT License',
-				'Programming Language :: Python :: 2.7',
-				'Framework :: Django :: 1.11',
+				'Programming Language :: Python :: 3.7',
+				'Framework :: Django :: 3.2',
 		],
 		license='MIT License',
 )
